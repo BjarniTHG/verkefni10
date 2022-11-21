@@ -2,7 +2,7 @@ import './style.css';
 
 const cx = document.querySelector('canvas').getContext('2d');
 const img = document.createElement('img');
-img.src = '/spritev2.png';
+img.src = '/spritev2';
 
 const spriteW = 118;
 const spriteH = 118;
